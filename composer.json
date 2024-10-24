@@ -9,7 +9,7 @@
     "homepage": "https://wordpress.org/plugins/wordpress-importer/",
     "support": {
         "issues": "https://wordpress.org/support/plugin/wordpress-importer/",
-        "source": "https://github.com/WordPress/wordpress-importer"
+        "source": "https://github.com/suptechie/wordpress-importer"
     },
     "require": {
         "php": ">=5.6"
